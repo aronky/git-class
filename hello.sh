@@ -7,4 +7,5 @@ ls -la
    ls
    sleep 5
    clear
+   echo "Getting there"
    echo "Completed!"
